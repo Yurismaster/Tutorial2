@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tutoria2"
+    namespace = "com.example.tutorial2"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.tutoria2"
+        applicationId = "com.example.tutorial2"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
